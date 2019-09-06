@@ -1,0 +1,18 @@
+#logo, #top_left, #top_right, #bottom_left, #bottom_right, .search_button, #search_bar{
+    display: none;
+}
+
+#center_of_page{
+    background-color: lightskyblue;
+    margin: 5px 30%;
+}
+
+form{
+    display: inline-block;
+    background-color: lightskyblue;
+    margin-left: 60%;
+}
+
+#new_search_bar{
+    height: 40px;
+}
