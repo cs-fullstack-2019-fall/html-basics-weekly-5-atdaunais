@@ -1,3 +1,10 @@
+
+### GRADING COMMENTS:
+* Overall, an excellent job
+* No comments!
+* In challenge, your second form submits search term entered in original form but think this is likely just a caching issue in browser
+* Some minor issues with bottom footer on larger displays (doesn't fill 100% ow screen width)
+
 # HTML/CSS Weekly 5
 
 Reproduce the Google search page
